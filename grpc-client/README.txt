@@ -1,0 +1,1 @@
+In order to make this work, just run "node server.js", no need to run the grpc client file
